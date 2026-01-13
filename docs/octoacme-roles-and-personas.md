@@ -169,7 +169,7 @@ Release Managers coordinate all aspects of software releases, from planning thro
 - Plan and coordinate release schedules and activities
 - Manage release dependencies and integration points
 - Create and maintain release documentation and runbooks
-- Coordinate go-live activities and deployment coordination
+- Coordinate go-live activities and deployment execution
 - Oversee post-release validation and monitoring
 - Manage release risks and rollback procedures
 - Ensure compliance with release policies and governance
